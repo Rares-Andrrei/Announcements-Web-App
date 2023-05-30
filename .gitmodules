@@ -1,0 +1,3 @@
+[submodule "notifications-app"]
+	path = notifications-app
+	url = https://github.com/Rares-Andrrei/notifications-app.git
